@@ -20,8 +20,8 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         SearchFileVisitor searchFileVisitor = new SearchFileVisitor();
 
-        //searchFileVisitor.setPartOfName(strPartOfName);
-        //searchFileVisitor.setPartOfContent(strPartOfContent);
+        searchFileVisitor.setPartOfName(strPartOfName);
+        searchFileVisitor.setPartOfContent(strPartOfContent);
         searchFileVisitor.setMinSize(minSize);
         searchFileVisitor.setMaxSize(maxSize);
 
