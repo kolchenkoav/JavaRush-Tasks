@@ -6541,3 +6541,29 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-06-29 22:37:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-06-29 22:37:59 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2022-06-29 22:38:01 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-06-29 22:59:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-29 23:01:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-29 23:02:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-29 23:02:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-29 23:02:31 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-06-29 23:02:31 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-29 23:02:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-29 23:02:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-06-29 23:02:39 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-06-29 23:02:39 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :D:/JAVARUSH/JavaRushTasks/4.JavaCollections/src/com/javarush/task/task31/task3111
+2022-06-30 00:03:11 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-06-30 00:03:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-30 00:03:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-30 00:03:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-30 00:03:12 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-06-30 09:45:58 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-06-30 09:45:58 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-06-30 09:45:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-30 09:45:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-30 09:45:58 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-06-30 09:45:58 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-06-30 09:45:58 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-06-30 10:09:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-30 10:31:32 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
